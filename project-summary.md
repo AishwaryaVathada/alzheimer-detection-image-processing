@@ -75,13 +75,6 @@ MRI + PET fusion further improved visual diagnostics and interpretability.
 
 - ISBB 2014: PET-MRI Wavelet Fusion  
 - IEEE BioMed, 2019: Feature Extraction + KNN  
-- Harvard Brain Atlas Dataset  
-- Amrita Vishwa Vidyapeetham ECE Dept.
+- Harvard Brain Atlas Dataset
 
 ---
-
-## 👥 Team
-
-Lakshmi Aishwarya Vathada, Nikitha Prasanth Nambiar, Noopura Parvathi A  
-Under guidance of Ms. Bhavana V., Department of ECE, Amrita School of Engineering  
-Final Year Project | December 2020
